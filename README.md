@@ -1,8 +1,10 @@
 # StateHelper
 
-**Открытая бета от SFC Dev.** Помощник для игроков GTA5RP: правила и законы всех 13 серверов, Wiki, ИИ, избранное и статьи поверх игры.
+**Открытая бета от SFC Dev.** Помощник для игроков GTA5RP: правила и законы 8 действующих серверов, Wiki, ИИ, избранное и статьи поверх игры.
 
 [Скачать StateHelper-Setup.exe](https://github.com/SFCDevStudio/GTA5RP_assist/releases/latest/download/StateHelper-Setup.exe) · [Portable ZIP](https://github.com/SFCDevStudio/GTA5RP_assist/releases/latest/download/StateHelper-Portable-win-x64.zip) · [История выпусков](https://github.com/SFCDevStudio/GTA5RP_assist/releases)
+
+[Подробное руководство пользователя — Wiki](https://github.com/SFCDevStudio/GTA5RP_assist/wiki)
 
 Windows x64. Обновления доступны через приложение. При первом запуске ознакомьтесь с политиками и коротким обучением. Через «Настройки» можно изменить горячую клавишу, включить автозапуск и снова открыть обучение.
 
